@@ -1,1 +1,1 @@
-# tinyone-landing
+# Tinyone landing page
