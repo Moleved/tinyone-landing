@@ -143,3 +143,60 @@ p.description {
     margin-top: 16px;
     color: #898989;
 }
+
+footer {
+    height: 765px;
+    background-color: black;
+}
+
+footer .head-text {
+    color: #fcdb00;
+    margin-top: 90px;
+}
+
+footer .sub-head {
+    color: #898989;
+    text-align: center;
+    margin-top: 16px;
+}
+
+.email-input {
+    width: 580px;
+    height: 48px;
+    border: none;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+.email-input::placeholder {
+    font-size: 16px;
+    color: #898989;
+    font-weight: normal;
+    position: relative;
+    left: 23px;
+}
+
+.submit-btn {
+    height: 50px;
+    width: 130px;
+    border: none;
+    background-color: #fcdb00;
+    margin: 0 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.email-form {
+    margin-top: 36px;
+}
+
+.social-connect {
+    margin-top: 90px;
+}
+
+.social-connect span {
+    margin: 0 15px;
+    font-size: 42px;
+    color: #fcdb00;
+}
