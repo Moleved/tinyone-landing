@@ -166,14 +166,13 @@ footer .sub-head {
     border: none;
     margin: 0 10px;
     border-radius: 5px;
+    padding-left: 23px;
+    font-size: 16px;
 }
 
 .email-input::placeholder {
     font-size: 16px;
     color: #898989;
-    font-weight: normal;
-    position: relative;
-    left: 23px;
 }
 
 .submit-btn {
